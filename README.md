@@ -15,6 +15,7 @@ Welcome to the Restaurant Search App, a platform where users can explore and fin
 
 ## Installation
 
+
 1. Clone the repository to your local machine:
 
    ```bash
