@@ -1,6 +1,3 @@
-Certainly! Here is the complete markdown code for your restaurant application's README:
-
-```markdown
 # Restaurant Search App
 
 Welcome to the Restaurant Search App, a platform where users can explore and find information about various restaurants, their menus, and user reviews.
